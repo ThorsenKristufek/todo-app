@@ -29,7 +29,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Run the app with `npm start`. This runs the app in the development mode on [http://localhost:3000](http://localhost:3000). Whenever you make changes to the code, the page will reload.
-
-## Submission
-
-Compress and the send the project to [Daniel](mailto:interviews@withclad.com).
